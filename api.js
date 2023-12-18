@@ -1,1 +1,1 @@
-api 1
+const msg = "Api mode on"
